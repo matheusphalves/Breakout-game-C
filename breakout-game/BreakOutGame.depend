@@ -1,0 +1,304 @@
+# depslib dependency file v1.0
+1512652080 source:c:\users\asus\desktop\estudos 2017\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"jogo.h"
+	"ranking.h"
+	"arquivos.h"
+	"Funçõesauxiliares.h"
+
+1512085992 source:c:\users\asus\desktop\estudos 2017\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"jogo.h"
+	"menu.h"
+	"arquivos.h"
+	"Funçõesauxiliares.h"
+
+1511126672 c:\users\asus\desktop\estudos 2017\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\jogo.h
+
+1510944914 c:\users\asus\desktop\estudos 2017\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\menu.h
+
+1510944647 c:\users\asus\desktop\estudos 2017\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"jogo.h"
+	"menu.h"
+
+1512175650 source:c:\users\asus\desktop\estudos 2017\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"ranking.h"
+	"menu.h"
+	"Funçõesauxiliares.h"
+
+1512173700 c:\users\asus\desktop\estudos 2017\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\ranking.h
+
+1512650824 source:c:\users\asus\desktop\estudos 2017\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"jogo.h"
+	"menu.h"
+	"Funçõesauxiliares.h"
+
+1511461280 source:j:\poli - eng. compt\breakout - game\[final] - breakout game\breakoutgame\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"ranking.h"
+	"menu.h"
+
+1511460888 j:\poli - eng. compt\breakout - game\[final] - breakout game\breakoutgame\ranking.h
+
+1510944914 j:\poli - eng. compt\breakout - game\[final] - breakout game\breakoutgame\menu.h
+
+1511446580 source:j:\poli - eng. compt\breakout - game\[final] - breakout game\breakoutgame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"jogo.h"
+	"menu.h"
+
+1511126672 j:\poli - eng. compt\breakout - game\[final] - breakout game\breakoutgame\jogo.h
+
+1511460956 source:j:\poli - eng. compt\breakout - game\[final] - breakout game\breakoutgame\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"jogo.h"
+	"ranking.h"
+
+1511460922 source:j:\poli - eng. compt\breakout - game\[final] - breakout game\breakoutgame\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"jogo.h"
+	"menu.h"
+
+1511461280 source:e:\poli - eng. compt\breakout - game\[final] - breakout game\breakoutgame\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"ranking.h"
+	"menu.h"
+
+1511460888 e:\poli - eng. compt\breakout - game\[final] - breakout game\breakoutgame\ranking.h
+
+1510944914 e:\poli - eng. compt\breakout - game\[final] - breakout game\breakoutgame\menu.h
+
+1511446580 source:e:\poli - eng. compt\breakout - game\[final] - breakout game\breakoutgame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"jogo.h"
+	"menu.h"
+
+1511126672 e:\poli - eng. compt\breakout - game\[final] - breakout game\breakoutgame\jogo.h
+
+1511460956 source:e:\poli - eng. compt\breakout - game\[final] - breakout game\breakoutgame\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"jogo.h"
+	"ranking.h"
+
+1511461394 source:e:\poli - eng. compt\breakout - game\[final] - breakout game\breakoutgame\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"jogo.h"
+	"menu.h"
+
+1511979906 source:c:\users\asus\desktop\estudos 2017\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\arquivos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"jogo.h"
+	"ranking.h"
+
+1511897418 c:\users\asus\desktop\estudos 2017\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\arquivos.h
+
+1511978824 source:j:\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\arquivos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"jogo.h"
+	"ranking.h"
+
+1511126672 j:\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\jogo.h
+
+1511721758 j:\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\ranking.h
+
+1511978066 source:j:\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"ranking.h"
+	"menu.h"
+
+1510944914 j:\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\menu.h
+
+1511977572 source:j:\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"jogo.h"
+	"menu.h"
+	"arquivos.h"
+
+1511897418 j:\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\arquivos.h
+
+1511978112 source:j:\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"jogo.h"
+	"ranking.h"
+	"arquivos.h"
+
+1511896830 source:j:\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"jogo.h"
+	"menu.h"
+
+1511979906 source:e:\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\arquivos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"jogo.h"
+	"ranking.h"
+
+1511126672 e:\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\jogo.h
+
+1511721758 e:\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\ranking.h
+
+1511977572 source:e:\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"jogo.h"
+	"menu.h"
+	"arquivos.h"
+
+1510944914 e:\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\menu.h
+
+1511897418 e:\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\arquivos.h
+
+1511978112 source:e:\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"jogo.h"
+	"ranking.h"
+	"arquivos.h"
+
+1511896830 source:e:\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"jogo.h"
+	"menu.h"
+
+1512085280 c:\users\asus\desktop\estudos 2017\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\funçõesauxiliares.h
+
+1512652080 source:c:\users\asus\desktop\estudos 2017\poli - eng. compt\1° período [2017.2]\linguagem de programação imperativa\breakout - game\[final] - breakout game\breakoutgame\funçõesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"jogo.h"
+	"ranking.h"
+	"arquivos.h"
+
